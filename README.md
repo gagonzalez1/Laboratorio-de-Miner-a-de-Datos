@@ -28,4 +28,10 @@ Para realizar las pruebas, se utilizó el siguiente JSON:
     61,
     2
   ]
-}
+} ```
+## resultado
+```json
+{
+    "statusCode": 200,
+    "body": "{\"input\": [56, 65648, 49624.93, 17, 467.73, 52.53, 0, 235, 61, 2], \"predicted_class\": 1, \"predicted_label\": \"low_value\"}"
+}```
