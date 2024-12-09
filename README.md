@@ -1,8 +1,7 @@
-# Laboratorio-de-Miner-a-de-Datos
+# Proyecto modelo de clasificacion de clientes
+Materia:Laboratorio-de-Miner-a-de-Datos
 
 Inegrantes del grupo: Octavio Moya, Cesar Nieto, Gabriel Gonzalez, Damian Pylinski.
-
-Proyecto modelo de clasificacion de clientes
 
 API: https://tf6nqvt3m2.execute-api.us-east-1.amazonaws.com/developer/predic
 
