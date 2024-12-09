@@ -1,11 +1,20 @@
-# Proyecto modelo de clasificacion de clientes
-Materia:Laboratorio-de-Miner-a-de-Datos
+# Proyecto: Modelo de Clasificación de Clientes
+**Materia:** Laboratorio de Minería de Datos
 
-Inegrantes del grupo: Octavio Moya, Cesar Nieto, Gabriel Gonzalez, Damian Pylinski.
+## Integrantes del Grupo
+- **Octavio Moya**
+- **Cesar Nieto**
+- **Gabriel Gonzalez**
+- **Damian Pylinski**
 
-API: https://tf6nqvt3m2.execute-api.us-east-1.amazonaws.com/developer/predic
+## API
+Accede a la API del proyecto en el siguiente enlace:  
+[API de Clasificación de Clientes](https://tf6nqvt3m2.execute-api.us-east-1.amazonaws.com/developer/predic)
 
-JSON usado para hacer el test: 
+## Datos de Prueba
+Para realizar las pruebas, se utilizó el siguiente JSON:
+
+```json
 {
   "data": [
     56,
@@ -19,10 +28,4 @@ JSON usado para hacer el test:
     61,
     2
   ]
-}
-
-Respuesta:
-{
-    "statusCode": 200,
-    "body": "{\"input\": [56, 65648, 49624.93, 17, 467.73, 52.53, 0, 235, 61, 2], \"predicted_class\": 1, \"predicted_label\": \"low_value\"}"
 }
