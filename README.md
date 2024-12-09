@@ -7,6 +7,8 @@
 - **Gabriel Gonzalez**
 - **Damian Pylinski**
 
+Laboratorio de AWS usado: Cesar Nieto
+
 ## Video explicaion
 https://drive.google.com/file/d/1puW_w_biNk51NcIa0J6Oleu8m5j5yLsZ/view
 
