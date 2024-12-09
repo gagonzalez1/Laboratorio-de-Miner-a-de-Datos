@@ -7,6 +7,9 @@
 - **Gabriel Gonzalez**
 - **Damian Pylinski**
 
+## Video explicaion
+[Video]{https://drive.google.com/file/d/1puW_w_biNk51NcIa0J6Oleu8m5j5yLsZ/view}
+
 ## API
 Accede a la API del proyecto en el siguiente enlace:  
 [API de Clasificación de Clientes](https://tf6nqvt3m2.execute-api.us-east-1.amazonaws.com/developer/predic)
